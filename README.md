@@ -1,6 +1,6 @@
 # Flutter API Fetcher
 
-![Screenshot of the app](link-to-your-screenshot)
+<img src="Screenshot_20231006-114415.png" width="15%"></img>
 
 ## Description
 
