@@ -1,6 +1,7 @@
 # Flutter API Fetcher
 
 <img src="Screenshot_20231006-114415.png" width="15%"></img>
+<img src="simulator_screenshot_32EEB4D8-39A1-463B-A7C1-B46ACF425C1A.png" width="15%"></img>
 
 ## Description
 
